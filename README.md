@@ -1,6 +1,6 @@
 # API_FINAL_YATUBE (last version)
 
-API_Final - финальная версия API для Yatube с использованием авторизациии по JWT токену.
+API_Final_Yatube - финальная версия API для Yatube с использованием авторизациии по JWT токену.
 
 > [!NOTE]
 > Python 3.9, Django Rest Framework (DRF)
